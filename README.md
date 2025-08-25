@@ -8,24 +8,23 @@ They showcase my continuous learning, practical skills, and contributions in are
 ## 📂 Certificates Included
 
 - 🎓 **Academic & Professional Training**
-  - [Udemy Certificate](./Certificate%20Udemy.pdf)  
-  - [Udemy Consultant Course](./UDEMY%20CONSULTANT%20COURSE%20UC-e3c87534-65f0-4509-91f9-a5638b8c8471.pdf)  
-  - [Microsoft Power BI – Certificate of Completion](./onome%20akhidenor-Data%20Analytics%20-%20Microsoft%20Power%20BI%20Certified%20Certificate%20of%20Completion.pdf)  
-  - [Udemy Certificate (Duplicate)](./udemy%20certificate.pdf)  
-
-- 🌍 **FAO & UN Involvement**
+  - French [Udemy Certificate](./Certificate%20Udemy.pdf)  
+  - Consultant [Udemy Consultant Course](./UDEMY%20CONSULTANT%20COURSE%20UC-e3c87534-65f0-4509-91f9-a5638b8c8471.pdf)  
+  - Data Analysis [Microsoft Power BI – Certificate of Completion](./onome%20akhidenor-Data%20Analytics%20-%20Microsoft%20Power%20BI%20Certified%20Certificate%20of%20Completion.pdf)  
+  - Data Management [Udemy Certificate (Duplicate)](./udemy%20certificate.pdf)
   - [FAO Certificate](./FAO%20CERTIFICATE.pdf)  
   - [FAO Certificate 2](./FAO%20CERTIFCATE%202%208685956242LA.pdf)  
-  - [United Nations Volunteer Certificate](./UNV%20CERTIFICATE.pdf)  
 
-- 🚀 **Challenges & Competitions**
+- 🌍 **United Nations Volunteer Involvement**
+  - [United Nations Volunteer Certificate](./UNV%20CERTIFICATE.pdf)
+  - [Certificate (12_12_2024)](./12_12_2024%2013_35_38.pdf)  
+  - [UC Certificate](./UC-e3c87534-65f0-4509-91f9-a5638b8c8471.pdf)  
+
+- 🚀 **Some Work done**
   - [Sahel Challenge – Certificate 1](./SAHEL%20CHALLENGE%20IAMSAHELCHALLENGE.png)  
   - [Sahel Challenge – Certificate 2](./SAHEL%20CHALLENGE%20IAMSAHELCHALLENGE%20(1).png)  
   - [Sahel Challenge – Certificate 3](./SAHEL%20CHALLENGE%20IAMSAHELCHALLENGE%20(2).png)  
-
-- 📑 **Other Certificates**
-  - [Certificate (12_12_2024)](./12_12_2024%2013_35_38.pdf)  
-  - [UC Certificate](./UC-e3c87534-65f0-4509-91f9-a5638b8c8471.pdf)  
+ 
 
 ---
 
