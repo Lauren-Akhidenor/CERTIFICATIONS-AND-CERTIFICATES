@@ -11,19 +11,14 @@ They showcase my continuous learning, practical skills, and contributions in are
   - French [Udemy Certificate](./Certificate%20Udemy.pdf)  
   - Consultant [Udemy Consultant Course](./UDEMY%20CONSULTANT%20COURSE%20UC-e3c87534-65f0-4509-91f9-a5638b8c8471.pdf)  
   - Data Analysis [Microsoft Power BI – Certificate of Completion](./onome%20akhidenor-Data%20Analytics%20-%20Microsoft%20Power%20BI%20Certified%20Certificate%20of%20Completion.pdf)  
-  - Data Management [Udemy Certificate (Duplicate)](./udemy%20certificate.pdf)
-  - [FAO Certificate](./FAO%20CERTIFICATE.pdf)  
-  - [FAO Certificate 2](./FAO%20CERTIFCATE%202%208685956242LA.pdf)  
+  - Data Management [UC Certificate](./UC-e3c87534-65f0-4509-91f9-a5638b8c8471.pdf) 
+  - FAO Certificate I [FAO Certificate](./FAO%20CERTIFICATE.pdf)  
+  - FAO Certificate II [FAO Certificate 2](./FAO%20CERTIFCATE%202%208685956242LA.pdf)  
 
 - 🌍 **United Nations Volunteer Involvement**
-  - [United Nations Volunteer Certificate](./UNV%20CERTIFICATE.pdf)
-  - [Certificate (12_12_2024)](./12_12_2024%2013_35_38.pdf)  
-  - [UC Certificate](./UC-e3c87534-65f0-4509-91f9-a5638b8c8471.pdf)  
-
-- 🚀 **Some Work done**
-  - [Sahel Challenge – Certificate 1](./SAHEL%20CHALLENGE%20IAMSAHELCHALLENGE.png)  
-  - [Sahel Challenge – Certificate 2](./SAHEL%20CHALLENGE%20IAMSAHELCHALLENGE%20(1).png)  
-  - [Sahel Challenge – Certificate 3](./SAHEL%20CHALLENGE%20IAMSAHELCHALLENGE%20(2).png)  
+  - AYPAD [United Nations Volunteer Certificate](./UNV%20CERTIFICATE.pdf)
+  - UNDP [Certificate (12_12_2024)](./12_12_2024%2013_35_38.pdf)  
+  
  
 
 ---
@@ -32,7 +27,7 @@ They showcase my continuous learning, practical skills, and contributions in are
 
 This repository serves as a **portfolio of certifications** I have earned through academic study, professional training, online learning, and volunteer programs.  
 It highlights my skills in:  
-- ✅ **Data Analysis & Visualization** (Power BI, Excel)  
+- ✅ **Data Analysis & Visualization**  
 - ✅ **Agricultural Economics & Food Systems**  
 - ✅ **Climate Change & Development Work**  
 - ✅ **Volunteering & Leadership**  
