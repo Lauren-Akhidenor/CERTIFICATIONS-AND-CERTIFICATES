@@ -23,7 +23,7 @@ This repository contains my professional and academic certificates, showcasing c
 
 ### 🌍 **United Nations Volunteer Involvement**
 - **AYPAD**  
-  [View Certificate](./CERTIFICATIONS-AND-CERTIFICATES/UNV_AYPD_CERTIFICATE.pdf)
+  [View Certificate](./UNV_AYPD_CERTIFICATE.pdf)
 - **UNDP Certificate**  
   [View Certificate](./12_12_2024%2013_35_38.pdf)
 
