@@ -10,7 +10,7 @@ This repository contains my professional and academic certificates, showcasing c
 - **Data Analysis – Microsoft Power BI Certificate of Completion**  
   [View Certificate](./onome%20akhidenor-Data%20Analytics%20-%20Microsoft%20Power%20BI%20Certified%20Certificate%20of%20Completion.pdf)
 - **Consultant – Udemy Consultant Course**  
-  [View Certificate](./UDEMY%20CONSULTANT%20COURSE%20UC-e3c87534-65f0-4509-91f9-a5638b8c8471.pdf)
+[![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/Udemy%20consultancy.png)
 - **FAO Certificate I**  
   [View Certificate](./FAO%20CERTIFCATE%202%208685956242LA.pdf)
 - **FAO Certificate II**  
