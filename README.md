@@ -26,7 +26,7 @@ This repository contains my professional and academic certificates, showcasing c
 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/AYAP.png)
 
 - **UNDP Certificate**  
-  [View Certificate](./12_12_2024%2013_35_38.pdf)
+[![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/UNDP.png)
 
 ---
 
