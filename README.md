@@ -18,9 +18,7 @@ This repository contains my professional and academic certificates, showcasing c
 - **French – Udemy Certificate**  
   [View Certificate](./Certificate%20Udemy.pdf)
 - **Data Management – UC Certificate**  
-<a href="https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/Udemy%20data%20management%20.png">
-  <img src="https://raw.githubusercontent.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/main/Udemy%20data%20management%20.png" alt="Udemy Data Management Certificate" width="900">
-</a>
+[![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/Udemy%20data%20management%20.png)
 
 
 ### 🌍 **United Nations Volunteer Involvement**
