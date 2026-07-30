@@ -12,7 +12,7 @@ This repository contains my professional and academic certificates, showcasing c
 - **Consultant – Udemy Consultant Course**  
 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/Udemy%20consultancy.png)
 - **FAO Certificate I**  
-  [View Certificate](./FAO%20CERTIFCATE%202%208685956242LA.pdf)
+[![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/FAO%201.png)
 - **FAO Certificate II**  
 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/FAO%202.png)
 - **French – Udemy Certificate**  
