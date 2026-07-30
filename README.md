@@ -1,10 +1,10 @@
-# 📜 Certifications & Certificates
+# Certifications & Certificates
 
 This repository contains my professional and academic certificates, showcasing continuous learning, and contributions in areas such as **agricultural economics, data analysis, climate change, volunteering, and leadership**.
 
 ---
 
-##  📂 Certificates Included
+##  Certificates Included
 
 ### Professional / Learning Certificates
 - **Data Analysis – Microsoft Power BI Certificate of Completion**  
@@ -21,7 +21,7 @@ This repository contains my professional and academic certificates, showcasing c
 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/Udemy%20data%20management%20.png)
 
 
-### 🌍 **United Nations Volunteer Involvement**
+### **United Nations Volunteer Involvement**
 - **AYPAD**  
   [View Certificate](./UNV%20AYPD%20CERTIFICATE.pdf)
 
@@ -45,7 +45,7 @@ This repository serves as a **portfolio of certificates** earned through profess
 
 To learn more about my work or explore collaborations:
 
-- 🌐 [GitHub Profile](https://github.com/Lauren-Akhidenor)  
+- 🌐 [Profile](https://lauren24.carrd.co)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lauren-akhidenor)  
 
 
