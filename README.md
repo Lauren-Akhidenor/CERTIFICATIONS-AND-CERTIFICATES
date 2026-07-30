@@ -14,7 +14,7 @@ This repository contains my professional and academic certificates, showcasing c
 - **FAO Certificate I**  
   [View Certificate](./FAO%20CERTIFCATE%202%208685956242LA.pdf)
 - **FAO Certificate II**  
-  [View Certificate](./FAO%20CERTIFICATE.pdf)
+[![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/FAO%202.png)
 - **French – Udemy Certificate**  
 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/Udemy%20French.png)
 - **Data Management – UC Certificate**  
