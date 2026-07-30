@@ -18,7 +18,7 @@ This repository contains my professional and academic certificates, showcasing c
 - **French – Udemy Certificate**  
   [View Certificate](./Certificate%20Udemy.pdf)
 - **Data Management – UC Certificate**  
-  [View Certificate](./UC-e3c87534-65f0-4509-91f9-a5638b8c8471.pdf)
+  [View Certificate]![Udemy Data Management](Udemy%20data%20management%20.png)
 
 
 ### 🌍 **United Nations Volunteer Involvement**
