@@ -17,7 +17,7 @@ This repository contains my professional and academic certificates, showcasing c
 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/FAO%202.png)
 - **French – Udemy Certificate**  
 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/Udemy%20French.png)
-- **Data Management – UC Certificate**  
+- **Data Management – Udemy Certificate**  
 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/Udemy%20data%20management%20.png)
 
 
