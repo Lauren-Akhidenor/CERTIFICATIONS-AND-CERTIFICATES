@@ -1,4 +1,4 @@
-# Certifications & Certificates
+# Certificates
 
 This repository contains my professional and academic certificates, showcasing continuous learning, and contributions in areas such as **agricultural economics, data analysis, climate change, volunteering, and leadership**.
 
